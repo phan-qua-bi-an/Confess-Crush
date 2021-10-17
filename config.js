@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Phần quà bí ẩn",
+    introTitle: 'Gửi đến Lục Linh Chi',
+    introDesc: `Xin chúc mừng bạn đã may mắn nhận được phần quà từ BTC
+    Để nhận quà vui lòng nhấn "Từ chối"`,
+    btnIntro: '^^Từ chối^^',
+    title: 'Phần quà đầy bí ẩn 🥰',
+    desc: 'Bạn đã sẵn sàng nhận quà rồi chứ? ',
+    btnYes: 'Không sẵn sàng <33',
+    btnNo: 'Sẵn sàng :3',
+    question: 'Tại sao bạn lại từ chối nhận quà của BTC? <3',
+    btnReply: 'Trả lời <3',
+    reply: 'Vì đơn giản BTC đã là một món quà to đùng <33333333',
+    mess: 'Mình biết mà 🥰. Bạn tuyệt vời lắm 😘😘',
+    messDesc: 'Chúc bạn nhận quà vui vẻ hổng quạo nha.',
+    btnAccept: 'BTC thật tuyệt vời <3',
 }
