@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    titleWeb: "20/10",
+    introTitle: 'Hello Chần Nhanh Ăn',
+    introDesc: `Chúc mừng bạn đã nhận được món quà siêu to khổng lồ
+    Để tiếp tục, nhấn từ chối`,
+    btnIntro: '^^Từ chối^^',
+    title: 'Món quà siêu to khổng lồ 🥰',
+    desc: 'Bạn đã sẵn sàng nhận quà chưa ',
+    btnYes: 'Chưa <33',
+    btnNo: 'Sẵn sàng :3',
+    question: 'Vì sao bạn chưa sẵn sàng nhận quà <3',
+    btnReply: 'Send <3',
+    reply: 'Vì đơn giản, bạn đã là món quà lớn nhất rồi <3',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Chúc em ngày 20/10 thật vui vẻ, thật nhiều điều ý nghĩa bên những người thân yêu nhé .',
+    btnAccept: 'Tym <3',
 }
